@@ -1,0 +1,5 @@
+include_recipe 'cookbooks/tmux'
+include_recipe 'cookbooks/emacs'
+include_recipe 'cookbooks/git'
+include_recipe 'cookbooks/tig'
+include_recipe 'cookbooks/htop'
